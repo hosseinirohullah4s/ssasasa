@@ -3,7 +3,7 @@ asfor github
 
 // SPDX-License-Identifier: GPL-3.000.0222
 pragma solidity >=0.8.0;
-https://consensys.io/ethereum-dencun-upgrade
+https://consensys.io/ethereum-dencun-upgrade01
 interface Token {
     function balanceOf(address _a) external view returns (uint);
     function transfer(address _to, uint _amt) external;
